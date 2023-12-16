@@ -1,0 +1,15 @@
+D:\learning-git_local\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+D:\learning-git_local\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+D:\learning-git_local\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\learning-git_local\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+D:\learning-git_local\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+D:\learning-git_local\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\learning-git_local\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\learning-git_local\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\learning-git_local\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\learning-git_local\HelloWorld\obj\Debug\net6.0\HelloWorld.sourcelink.json
+D:\learning-git_local\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+D:\learning-git_local\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+D:\learning-git_local\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+D:\learning-git_local\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+D:\learning-git_local\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
