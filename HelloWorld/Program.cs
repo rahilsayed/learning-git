@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Enter your name: ");
+string name = Console.ReadLine();
+if(string.IsNullOrEmpty(name)){
+    name = "Mr.Nobody";
+}
+Console.WriteLine("Hello {0}", name);
+
+
